@@ -7,8 +7,10 @@
 - 🚀 2022 Goals: Land my first job at tech
 - ⚡ Fun fact: I love scuba diving 🤿 and dogs 🐶
 
-### Let's connect on Linkedin [<img src='https://github.com/nicktsekas/test/blob/main/icons8-linkedin-64.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/nikolastsekas) 
+### Let's talk!
 
+[<img src='https://github.com/nicktsekas/test/blob/main/icons8-linkedin-64.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/nikolastsekas) 
+[<img src='https://github.com/nicktsekas/test/blob/main/icons8-gmail-48.png' alt='gmail' height='40'>](nikolastsekas@gmail.com)
 
 ### Languages and Tools:
 
