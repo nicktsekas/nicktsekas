@@ -12,10 +12,7 @@
 
 ### Let's connect on Linkedin:
 
-[![website](https://www.linkedin.com/feed/?doFeedRefresh=true&nis=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B10P8eD9eSEOjk9gLnaUtIw%3D%3D)](https://www.linkedin.com/in/nikolastsekas/#gh-light-mode-only)
-[![website](https://www.linkedin.com/feed/?doFeedRefresh=true&nis=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B10P8eD9eSEOjk9gLnaUtIw%3D%3D)](https://www.linkedin.com/in/nikolastsekas/#gh-dark-mode-only)
-&nbsp;&nbsp;
-
+[![website](https://www.daniel-ip.com/wp-content/uploads/2021/05/linkedin-logo.png)](https://www.linkedin.com/in/nikolastsekas/#gh-light-mode-only)
 
 ### Languages and Tools:
 
