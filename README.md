@@ -1,4 +1,6 @@
-### Hi there 👋
+## Hi, I'am Nick 👋
+
+Welcome to my profile!
 
 <!--
 **nicktsekas/nicktsekas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
