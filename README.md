@@ -1,4 +1,4 @@
-## Hello world, I'am Nick 👋
+# Hello world, I'am Nick 👋
 
 ![alt text](https://github.com/nicktsekas/test/blob/main/welcome%20to%20github.png)
 
@@ -8,9 +8,7 @@
 - 🥅 2022 Goals: Learn more about web3
 - ⚡ Fun fact: I love to draw and play guitar / drums
 
-### Let's connect on Linkedin:
-
-[<img src='https://github.com/nicktsekas/test/blob/main/icons8-linkedin-64.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/nikolastsekas) 
+## Let's connect on Linkedin: [<img src='https://github.com/nicktsekas/test/blob/main/icons8-linkedin-64.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/nikolastsekas) 
 
 
 ### Languages and Tools:
