@@ -1,18 +1,15 @@
-## Hi, I'am Nick 👋
+## Hello world, I'am Nick 👋
 
 ![alt text](https://github.com/nicktsekas/test/blob/main/welcome%20to%20github.png)
-## I'm a Husband, Father, Developer, and Teacher!!
 
-- 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]!
+## I'm an Engineer with 
+
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Learn more about web3
 - ⚡ Fun fact: I love to draw and play guitar / drums
-- 😻 Check out the NFT collection I created: [CodeCats](https://opensea.io/collection/codecats?search[sortAscending]=true&search[sortBy]=PRICE&search[toggles][0]=BUY_NOW)
 
 ### Let's connect on Linkedin:
-
-[![website](https://www.daniel-ip.com/wp-content/uploads/2021/05/linkedin-logo.png)](https://www.linkedin.com/in/nikolastsekas/#gh-light-mode-only)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nikolastsekas/) 
 
 ### Languages and Tools:
 
