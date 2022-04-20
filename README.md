@@ -9,7 +9,8 @@
 - ⚡ Fun fact: I love to draw and play guitar / drums
 
 ### Let's connect on Linkedin:
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nikolastsekas/) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nikolastsekas#gh-light-mode-only) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin-light.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nikolastsekas#gh-dark-mode-only) 
 
 ### Languages and Tools:
 
