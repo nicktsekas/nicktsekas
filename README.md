@@ -8,9 +8,8 @@
 - ⚡ Fun fact: I love scuba diving 🤿 and dogs 🐶
 
 ### Let's connect: 
-<p align="center">
-  [<img src='https://github.com/nicktsekas/test/blob/main/icons8-linkedin-64.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/nikolastsekas)
-</p>
+
+[<img src='https://github.com/nicktsekas/test/blob/main/icons8-linkedin-64.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/nikolastsekas)
 
  
 
