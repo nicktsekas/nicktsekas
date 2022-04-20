@@ -1,6 +1,6 @@
 ## Hi, I'am Nick 👋
 
-![alt text](https://github.com/nicktsekas/test/blob/main/welcome to github.png)
+![alt text](https://github.com/nicktsekas/test/blob/main/welcome%20to%20github.png)
 
 
 <!--
