@@ -14,9 +14,9 @@ Let's connect
 
 ## Languages and Tools:
 
-<img src='https://github.com/nicktsekas/test/blob/main/icons8-python-48.png' alt='python' height='40'>
-<img src='https://github.com/nicktsekas/test/blob/main/icons8-r-64.png' alt='r' height='40'>
-<img src='https://github.com/nicktsekas/test/blob/main/icons8-sql-60.png' alt='sql' height='40'>
+<img src='https://github.com/nicktsekas/test/blob/main/icons8-python-48.png' alt='python' height='40'><img src='https://github.com/nicktsekas/test/blob/main/icons8-r-64.png' alt='r' height='40'><img src='https://github.com/nicktsekas/test/blob/main/icons8-sql-60.png' alt='sql' height='40'>
+
+
 <br />
 <br />
 
