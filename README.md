@@ -14,7 +14,7 @@ Let's connect
 
 ## Languages and Tools:
 
-<img src='https://github.com/nicktsekas/test/blob/main/icons8-python-48.png' alt='python' height='25'>
+<img src='https://github.com/nicktsekas/test/blob/main/icons8-python-48.png' alt='python' height='40'>
 
 
 <br />
