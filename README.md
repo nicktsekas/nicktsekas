@@ -1,6 +1,6 @@
 ## Hi, I'am Nick 👋
 
-![alt text](https://drive.google.com/file/d/1xLfktdXba20M73QUaHxTepKNvzw_cyS_/view?usp=sharing)
+![](https://drive.google.com/file/d/1xLfktdXba20M73QUaHxTepKNvzw_cyS_/view?usp=sharing)
 
 
 
