@@ -10,7 +10,7 @@
 
 ### Let's connect on Linkedin:
 
-[<img src='https://github.com/nicktsekas/test/blob/main/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nikolastsekas) 
+[<img src='https://github.com/nicktsekas/test/blob/main/icons8-linkedin-64.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/nikolastsekas) 
 
 
 ### Languages and Tools:
