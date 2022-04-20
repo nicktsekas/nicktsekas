@@ -2,13 +2,14 @@
 
 ![alt text](https://github.com/nicktsekas/test/blob/main/welcome%20to%20github.png)
 
-## I'm an Engineer with 
+## I'm an Engineer with a passion for analytics and data science!
 
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2022 Goals: Learn more about web3
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 📖 I’m currently learning as much as I can 😅
+- 🚀 2022 Goals: Land my first job at tech
+- ⚡ Fun fact: I love scuba diving 🤿 and dogs 🐶
 
-## Let's connect on Linkedin: [<img src='https://github.com/nicktsekas/test/blob/main/icons8-linkedin-64.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/nikolastsekas) 
+## Let's connect on Linkedin
+[<img src='https://github.com/nicktsekas/test/blob/main/icons8-linkedin-64.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/nikolastsekas) 
 
 
 ### Languages and Tools:
