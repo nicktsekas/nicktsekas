@@ -12,8 +12,8 @@
 
 ### Let's connect on Linkedin:
 
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/nikolastsekas/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/nikolastsekas/#gh-dark-mode-only)
+[![website](https://www.linkedin.com/feed/?doFeedRefresh=true&nis=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B10P8eD9eSEOjk9gLnaUtIw%3D%3D)](https://www.linkedin.com/in/nikolastsekas/#gh-light-mode-only)
+[![website](https://www.linkedin.com/feed/?doFeedRefresh=true&nis=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B10P8eD9eSEOjk9gLnaUtIw%3D%3D)](https://www.linkedin.com/in/nikolastsekas/#gh-dark-mode-only)
 &nbsp;&nbsp;
 
 
