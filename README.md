@@ -9,7 +9,7 @@
 
 Let's connect 
 
-[<img src='https://github.com/nicktsekas/test/blob/main/icons8-linkedin-64.png' alt='linkedin' height='30'>](https://www.linkedin.com/in/nikolastsekas)           [<img src='https://github.com/nicktsekas/test/blob/main/icons8-gmail-48.png' alt='email' height='30'>](mailto:nikolastsekas+github@gmail.com)
+[<img src='https://github.com/nicktsekas/test/blob/main/icons8-linkedin-64.png' alt='linkedin' height='30'>](https://www.linkedin.com/in/nikolastsekas)                      [<img src='https://github.com/nicktsekas/test/blob/main/icons8-gmail-48.png' alt='email' height='30'>](mailto:nikolastsekas+github@gmail.com)
 
 ## Languages and Tools:
 
