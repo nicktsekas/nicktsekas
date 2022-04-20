@@ -1,8 +1,6 @@
 ## Hi, I'am Nick 👋
 
-![](https://drive.google.com/file/d/1xLfktdXba20M73QUaHxTepKNvzw_cyS_/view?usp=sharing)
-
-
+![alt text](https://github.com/[nicktsekas]/[test]/blob/[main]/welcome to github.png)
 
 
 <!--
