@@ -1,6 +1,9 @@
 ## Hi, I'am Nick 👋
 
-Welcome to my profile!
+![alt text](https://drive.google.com/file/d/1xLfktdXba20M73QUaHxTepKNvzw_cyS_/view?usp=sharing)
+
+
+
 
 <!--
 **nicktsekas/nicktsekas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
