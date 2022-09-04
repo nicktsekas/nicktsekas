@@ -1,5 +1,4 @@
 # Hello world!
-![alt text](https://github.com/nicktsekas/test/blob/main/welcome%20to%20github.png)
 
 ## I'm an Engineer with a passion for analytics and data science!
 
