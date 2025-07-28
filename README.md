@@ -1,7 +1,9 @@
 # Hello world!
 Welcome to my GitHub Profile. 
 
-## I'm a passionate Project Manager with a background in engineering and business analytics. I enjoy solving real business problems whether that means managing cross-functional teams to deliver end-to-end projects, automating manual processes, or designing dashboards that help people make better decisions. 
+## 
+
+I'm a passionate Project Manager with a background in engineering and business analytics. I enjoy solving real business problems whether that means managing cross-functional teams to deliver end-to-end projects, automating manual processes, or designing dashboards that help people make better decisions. 
 
 With experience across consulting, startups, and enterprise environments, I bring a mix of strategic thinking and hands-on development. I enjoy working closely with stakeholders to shape solutions that not only work but also stick. My goal is simple: create tools that last, make daily work easier, and deliver real value not just flashy features. 
 
