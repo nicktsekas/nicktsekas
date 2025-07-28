@@ -1,11 +1,9 @@
 # Hello world!
 Welcome to my GitHub Profile. 
 
-## I'm an Engineer with a passion for analytics and data science!
+## I'm a passionate Project Manager with a background in engineering and business analytics. I enjoy solving real business problems whether that means managing cross-functional teams to deliver end-to-end projects, automating manual processes, or designing dashboards that help people make better decisions. 
 
-- 📖 I’m currently learning as much as I can 😅
-- 🚀 2022 Goals: Land my first job at tech
-- ⚡ Fun fact: I love scuba diving 🤿 and dogs 🐶
+With experience across consulting, startups, and enterprise environments, I bring a mix of strategic thinking and hands-on development. I enjoy working closely with stakeholders to shape solutions that not only work but also stick. My goal is simple: create tools that last, make daily work easier, and deliver real value not just flashy features. 
 
 Let's connect 
 
